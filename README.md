@@ -18,3 +18,8 @@ We envision a future where:
 
 By embracing the accelerating momentum of AI, we aim to make software development more accessible, efficient, and innovative.
 
+
+
+## Discover 
+
+- [0docs](https://github.com/geekleai/0docs-white-paper)
